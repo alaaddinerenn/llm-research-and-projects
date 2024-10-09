@@ -2,7 +2,7 @@
 This repository consist of the projects that are implemented by Python and LangChain framework during my personal research on LLM's.
 
 In this research, firstly I focused on how LLM's work and their architecture. After understanding these topics, I 
-focused on the prompting tecniques and RAG technique.
+focused on the prompting tecniques and the RAG technique.
 
 ## Topics
 - **How LLM's Work**
