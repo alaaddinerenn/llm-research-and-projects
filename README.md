@@ -17,4 +17,4 @@ focused on the prompting tecniques and RAG technique.
 - **Persona Based Promting**
 - **RAG Technique**
 
-After understanding the LLM's, I developed 2 simple projects using **LangChain** framework and **Python**.
+After understanding how the LLM's work, I developed 2 simple projects using **LangChain** framework and **Python**.
