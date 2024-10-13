@@ -1,11 +1,11 @@
 # llm-research-and-projects
-This repository consist of the projects that are implemented by Python and LangChain framework during my research on LLM's.
+This repository consist of the projects that are implemented by Python and LangChain framework during my research on LLMs.
 
-In this research, firstly I focused on how LLM's work and their architecture. After understanding these topics, I 
+In this research, firstly I focused on how LLMs work and their architecture. After understanding these topics, I 
 focused on the prompting tecniques and the RAG technique.
 
 ## Topics
-- **How LLM's Work**
+- **How LLMs Work**
 - **Transformer Architecture**
 - **Pre-Tranining and Fine-Tuning**
 - **Tokenization**
@@ -17,4 +17,4 @@ focused on the prompting tecniques and the RAG technique.
 - **Persona Based Promting**
 - **RAG Technique**
 
-After understanding how the LLM's work, I developed 2 simple projects using **LangChain** framework and **Python**.
+After understanding how the LLMs work, I developed 2 simple projects using **LangChain** framework and **Python**.
